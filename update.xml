@@ -4,6 +4,7 @@
   <app appid="ofbgiidfndkoakaebgcpghpnofafopkc">
     <updatecheck
       codebase="https://github.com/willshao/piblictestfile/blob/main/krpa.crx"
-      version="3.1.1" />
+      version="3.6.1" />
   </app>
 </gupdate>
+
